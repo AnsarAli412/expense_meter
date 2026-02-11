@@ -30,11 +30,13 @@
 
 ## 📱 Screenshots
 
-| Dashboard | Add Expense | Monthly Report | Dark Mode |
-|:---:|:---:|:---:|:---:|
-| <img src="docs/screenshots/dashboard.png" width="200" alt="Dashboard" /> | <img src="docs/screenshots/add_expense.png" width="200" alt="Add Expense" /> | <img src="docs/screenshots/report.png" width="200" alt="Monthly Report" /> | <img src="docs/screenshots/dark_mode.png" width="200" alt="Dark Mode" /> |
-
-*(Note: Replace placeholder paths with actual screenshots)*
+|Splash|Profile Setup| Dashboard |Add Income| Add Expense |
+|:---:|:---:|:---:|:---:|:---:
+| <img src="https://github.com/AnsarAli412/expense_meter/blob/master/assets/screenshots/splash.jpeg" width="200" alt="Splash" /> |
+<img src="https://github.com/AnsarAli412/expense_meter/blob/master/assets/screenshots/profile_setup.jpeg" width="200" alt="Profile Setup" /> |
+<img src="https://github.com/AnsarAli412/expense_meter/blob/master/assets/screenshots/dashboard.jpeg" width="200" alt="Dashboard" /> |
+<img src="https://github.com/AnsarAli412/expense_meter/blob/master/assets/screenshots/add_income.jpeg" width="200" alt="Add Income" /> | 
+<img src="https://github.com/AnsarAli412/expense_meter/blob/master/assets/screenshots/add_expense.jpeg" width="200" alt="Add Expense" /> | 
 
 ---
 
